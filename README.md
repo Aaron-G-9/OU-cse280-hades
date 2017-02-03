@@ -1,1 +1,4 @@
-OU-cse280-hades
+#OU CSE 280 - "HADES" 
+
+##Authors
+Noah G.
