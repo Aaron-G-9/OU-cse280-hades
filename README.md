@@ -1,5 +1,5 @@
-#OU CSE 280 - "HADES" 
+# OU CSE 280 - "HADES" 
 
-##Authors
-Noah G.
+## Authors
+Noah G.  
 Aaron G.
